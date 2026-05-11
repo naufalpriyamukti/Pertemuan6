@@ -1,4 +1,6 @@
-<img width="1919" height="1198" alt="image" src="https://github.com/user-attachments/assets/7ac247f9-9d21-4996-9a29-0d826ea72ff6" /># Pertemuan6
+Naufal Priyamukti Wibowo
+20230140097
+B
 
 Web Local Host Saya
 
